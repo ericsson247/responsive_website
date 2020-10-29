@@ -13,7 +13,9 @@ It is a one page website consisting landing page, features and portfolio
 * Instant Grams
 
 # Prototype of the website 
-![the_picture_preview_of_my_blog_post.](/assets/images/demo.jpg "This is a simple")
+![the_picture_preview_of_my_blog_post.](/images/a.PNG "This is a sample")
+![the_picture_preview_of_my_blog_post.](/images/b.PNG "This is a sample")
+![the_picture_preview_of_my_blog_post.](/images/c.PNG "This is a sample")
 # Developed with 
 * HTML
 * CSS
